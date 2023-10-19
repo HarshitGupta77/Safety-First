@@ -2,7 +2,7 @@
 
 #### Use our app to ensure your safety.
 
-Team 1
+Created by:
 
 - Harshit Gupta
 - Khushi Tyagi
