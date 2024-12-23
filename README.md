@@ -1,9 +1,5 @@
 # Safety First
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1d7b1096-b8c9-4104-a532-514e2477bd17" alt="App_Logo">
-</div>
-
 Welcome to **Safety First**, your all-in-one safety companion designed to keep you and your loved ones informed and connected in times of need. 
 
 ## Features
