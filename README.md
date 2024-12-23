@@ -26,7 +26,7 @@ Download the app today using the apk file and take the first step towards a safe
 
 Stay safe with **Safety First**!
    
-Creators:
+## Creators:
 - Harshit Gupta
 - Khushi Tyagi
 - Srinidhi Balamohan
